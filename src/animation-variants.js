@@ -10,10 +10,12 @@ export const pathVariants = {
   hidden: {
     pathLength: 0,
     strokeWidth: 0,
+    scale: 1,
   },
   visible: {
     pathLength: 1,
-    strokeWidth: 10,
+    strokeWidth: 12,
+    scale: 1.1,
     transition: {
       duration: 0.9,
       yoyo: Infinity,
