@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/amir-motion/static/css/main.18e3eedb.chunk.css",
-    "main.js": "/amir-motion/static/js/main.d81685a7.chunk.js",
-    "main.js.map": "/amir-motion/static/js/main.d81685a7.chunk.js.map",
-    "runtime-main.js": "/amir-motion/static/js/runtime-main.4cb472e6.js",
-    "runtime-main.js.map": "/amir-motion/static/js/runtime-main.4cb472e6.js.map",
-    "static/js/2.53920ca2.chunk.js": "/amir-motion/static/js/2.53920ca2.chunk.js",
-    "static/js/2.53920ca2.chunk.js.map": "/amir-motion/static/js/2.53920ca2.chunk.js.map",
-    "index.html": "/amir-motion/index.html",
-    "static/css/main.18e3eedb.chunk.css.map": "/amir-motion/static/css/main.18e3eedb.chunk.css.map",
-    "static/js/2.53920ca2.chunk.js.LICENSE.txt": "/amir-motion/static/js/2.53920ca2.chunk.js.LICENSE.txt"
+    "main.css": "/motion/static/css/main.18e3eedb.chunk.css",
+    "main.js": "/motion/static/js/main.d81685a7.chunk.js",
+    "main.js.map": "/motion/static/js/main.d81685a7.chunk.js.map",
+    "runtime-main.js": "/motion/static/js/runtime-main.82ce3e08.js",
+    "runtime-main.js.map": "/motion/static/js/runtime-main.82ce3e08.js.map",
+    "static/js/2.53920ca2.chunk.js": "/motion/static/js/2.53920ca2.chunk.js",
+    "static/js/2.53920ca2.chunk.js.map": "/motion/static/js/2.53920ca2.chunk.js.map",
+    "index.html": "/motion/index.html",
+    "static/css/main.18e3eedb.chunk.css.map": "/motion/static/css/main.18e3eedb.chunk.css.map",
+    "static/js/2.53920ca2.chunk.js.LICENSE.txt": "/motion/static/js/2.53920ca2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4cb472e6.js",
+    "static/js/runtime-main.82ce3e08.js",
     "static/js/2.53920ca2.chunk.js",
     "static/css/main.18e3eedb.chunk.css",
     "static/js/main.d81685a7.chunk.js"
