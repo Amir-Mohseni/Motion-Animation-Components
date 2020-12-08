@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/motion/static/css/main.18e3eedb.chunk.css",
-    "main.js": "/motion/static/js/main.d81685a7.chunk.js",
-    "main.js.map": "/motion/static/js/main.d81685a7.chunk.js.map",
-    "runtime-main.js": "/motion/static/js/runtime-main.82ce3e08.js",
-    "runtime-main.js.map": "/motion/static/js/runtime-main.82ce3e08.js.map",
-    "static/js/2.53920ca2.chunk.js": "/motion/static/js/2.53920ca2.chunk.js",
-    "static/js/2.53920ca2.chunk.js.map": "/motion/static/js/2.53920ca2.chunk.js.map",
-    "index.html": "/motion/index.html",
-    "static/css/main.18e3eedb.chunk.css.map": "/motion/static/css/main.18e3eedb.chunk.css.map",
-    "static/js/2.53920ca2.chunk.js.LICENSE.txt": "/motion/static/js/2.53920ca2.chunk.js.LICENSE.txt"
+    "main.css": "/Motion-Animation-Components/static/css/main.18e3eedb.chunk.css",
+    "main.js": "/Motion-Animation-Components/static/js/main.d81685a7.chunk.js",
+    "main.js.map": "/Motion-Animation-Components/static/js/main.d81685a7.chunk.js.map",
+    "runtime-main.js": "/Motion-Animation-Components/static/js/runtime-main.ce1256e9.js",
+    "runtime-main.js.map": "/Motion-Animation-Components/static/js/runtime-main.ce1256e9.js.map",
+    "static/js/2.53920ca2.chunk.js": "/Motion-Animation-Components/static/js/2.53920ca2.chunk.js",
+    "static/js/2.53920ca2.chunk.js.map": "/Motion-Animation-Components/static/js/2.53920ca2.chunk.js.map",
+    "index.html": "/Motion-Animation-Components/index.html",
+    "static/css/main.18e3eedb.chunk.css.map": "/Motion-Animation-Components/static/css/main.18e3eedb.chunk.css.map",
+    "static/js/2.53920ca2.chunk.js.LICENSE.txt": "/Motion-Animation-Components/static/js/2.53920ca2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.82ce3e08.js",
+    "static/js/runtime-main.ce1256e9.js",
     "static/js/2.53920ca2.chunk.js",
     "static/css/main.18e3eedb.chunk.css",
     "static/js/main.d81685a7.chunk.js"
